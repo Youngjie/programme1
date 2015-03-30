@@ -1,0 +1,5 @@
+D:\workspace\Web\数据库项目\数据库项目\数据库项目\bin\数据库项目.dll
+D:\workspace\Web\数据库项目\数据库项目\数据库项目\bin\数据库项目.pdb
+D:\workspace\Web\数据库项目\数据库项目\数据库项目\obj\Debug\数据库项目.dll
+D:\workspace\Web\数据库项目\数据库项目\数据库项目\obj\Debug\数据库项目.pdb
+D:\workspace\Web\数据库项目\数据库项目\数据库项目\obj\Debug\数据库项目.csprojResolveAssemblyReference.cache
